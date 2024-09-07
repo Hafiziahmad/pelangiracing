@@ -1,5 +1,47 @@
 element.style {
 }
+.elementor-kit-35 {
+    --e-global-color-primary: #000000;
+    --e-global-color-secondary: #ffffff;
+    --e-global-color-text: #ffffff;
+    --e-global-color-accent: #00ad18;
+    --e-global-color-6bdcde5: #40115f;
+    --e-global-color-5c555f8: #1da3b5;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-2531477-font-family: "Anton";
+    --e-global-typography-2531477-font-weight: 900;
+    --e-global-typography-2531477-letter-spacing: 1.2px;
+    --e-global-typography-b67ea9a-font-family: "Bebas Neue";
+    --e-global-typography-b67ea9a-font-weight: 500;
+    --e-global-typography-b67ea9a-letter-spacing: 3.1px;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ff6c00;
+    background-color: #00ef73;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
 :root {
     --page-title-display: none;
 }
@@ -67,23 +109,7 @@ html {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
-html[Attributes Style] {
-    -webkit-locale: "en-US";
-}
-user agent stylesheet
-:root {
-    view-transition-name: root;
-}
-user agent stylesheet
-html {
-    display: block;
-}
 *, :after, :before {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, :after, :before {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
